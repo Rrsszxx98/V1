@@ -10,13 +10,6 @@ Simple Rpg WhatsApp Bot V1
 <a href="https://github.com/saipulanuar/v18/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/saipulanuar/v18?label=PullRequest&color=success&style=flat-square"></a>
 <a href="https://github.com/saipulanuar/v18/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/WallHackBotz/V-2.0
 
-## Join Group Diskusi
-[![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EEuvxqQuv4bGsjrTttzFz8) 
-**NO BOT**
-
-## Deploy to heroku
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/WallHackBotz/alan-heroku)
 
 Heroku Buildpack
 | BuildPack | LINK |
@@ -35,7 +28,7 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/WallHackBotz/V1
+git clone https://github.com/Rrsszxx98/V1
 cd V1
 npm install
 npm update
@@ -50,7 +43,7 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/WallHackBotz/V1
+git clone https://github.com/Rrsszxx98/V1
 cd V1
 npm install
 npm update
