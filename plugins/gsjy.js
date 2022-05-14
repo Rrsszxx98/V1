@@ -471,6 +471,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
     throw e
   }
 }
+handler.register = true
 handler.help = ['menu', '?', 'help']
 handler.tags = ['main']
 handler.command = /^(menu|\?|help)$/i
