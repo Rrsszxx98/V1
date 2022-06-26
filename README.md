@@ -1,5 +1,5 @@
 # V1
-Simple Rpg WhatsApp Bot V1
+Simple Rpg WhatsApp Bot WhatsApp Using Baileys Old
 
 <a href="https://github.com/Rrsszxx98/V1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Rrsszxx98/V1?label=Forks&color=blue&style=flat-square"></a>
 <a href="https://github.com/Rrsszxx98/V1/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/WallHackBotz/V1?label=Watchers&color=green&style=flat-square"></a>
